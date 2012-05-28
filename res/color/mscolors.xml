@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+		<color name="bg_covered">#8487F8</color>         
+	</item>
+    <item>
+    	<color name="bg_uncovered">#C4C5D0</color> 
+	</item>    		
+</selector>

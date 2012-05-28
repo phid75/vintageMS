@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"	>
+    <EditTextPreference android:key="V_SIZE" android:title="horizontal grid size"  android:numeric="integer" android:defaultValue="9"/>
+    <EditTextPreference android:key="H_SIZE" android:title="vertical grid size"  android:numeric="integer" android:defaultValue="9"/>
+    <EditTextPreference android:key="NB_BOMBS" android:title="number of mines"  android:numeric="integer" android:defaultValue="10"/>
+</PreferenceScreen>
