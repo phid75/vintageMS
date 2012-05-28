@@ -45,6 +45,7 @@ public class MSActivity extends Activity implements OnClickListener, OnLongClick
 	
 	private boolean mineFieldDimensionHasChanged = false;		// true if user has changed preferences that impact on mine field
 	
+	
     /** Called when the activity is first created. 
      *  or when it comes from stopped state 
      */
